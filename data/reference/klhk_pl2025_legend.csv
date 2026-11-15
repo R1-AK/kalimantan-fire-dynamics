@@ -1,0 +1,24 @@
+﻿code,class,colour
+2001,Primary dryland forest,#1a6e2a
+2002,Secondary dryland forest,#3f9b4b
+2004,Primary mangrove forest,#0b4f3c
+20041,Secondary mangrove forest,#2c7a64
+2005,Primary swamp forest,#5b8c3a
+20051,Secondary swamp forest,#84ad5c
+2006,Plantation forest,#9acd32
+2007,Shrub,#c9d98a
+20071,Swamp shrub,#a8c49a
+2010,Estate crop,#f2a541
+2012,Settlement,#d7301f
+20121,Airport / port,#7a0177
+20122,Transmigration area,#f768a1
+2014,Open land,#e6cfa3
+20141,Mining,#6a3d9a
+20091,Dryland farming,#ffe680
+20092,Dryland farming mixed with shrub,#e8d27a
+20093,Rice field,#c7e9b4
+20094,Fish pond,#4fc3f7
+3000,Savanna / grassland,#d9c36a
+5001,Water body,#2166ac
+50011,Swamp,#67a9cf
+2500,Cloud,#f7f7f7

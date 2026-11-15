@@ -1,0 +1,35 @@
+# Large raw satellite rasters & heavy point clouds (reproducible via scripts/)
+data/raw/*
+!data/raw/README.md
+data/processed/oct2026_kalimantan_viirs_375m_hotspots.csv
+*.tif
+*.tiff
+*.gpkg
+*.shp
+*.shx
+*.dbf
+*.prj
+
+# Keep lightweight reference GeoJSON & processed summary CSVs tracked!
+!data/reference/*.geojson
+!data/reference/*.csv
+!data/processed/*.csv
+data/processed/*_hotspots.csv
+
+# Credentials & local environment (NEVER commit keys)
+.env
+*credentials*.json
+*oceanic-depth*.json
+*.pem
+*.key
+
+# Python / OS / GIS temp files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+*.aux.xml
+*.ovr
+.DS_Store
+Thumbs.db

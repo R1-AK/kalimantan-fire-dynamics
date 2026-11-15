@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "sea_countries",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 4172, "iso_a2": "TL", "NAME": "TIMOR-LESTE", "Latitude": -8.823, "Longitude": 125.854 }, "geometry": { "type": "Point", "coordinates": [ 125.854, -8.823 ] } },
+{ "type": "Feature", "properties": { "fid": 689, "iso_a2": "SG", "NAME": "SINGAPORE", "Latitude": 1.359, "Longitude": 103.812 }, "geometry": { "type": "Point", "coordinates": [ 103.812, 1.359 ] } },
+{ "type": "Feature", "properties": { "fid": 6095, "iso_a2": "ID", "NAME": "INDONESIA", "Latitude": 1.4, "Longitude": 119.81 }, "geometry": { "type": "Point", "coordinates": [ 119.81, 1.4 ] } },
+{ "type": "Feature", "properties": { "fid": 1346, "iso_a2": "MY", "NAME": "MALAYSIA", "Latitude": 2.41, "Longitude": 111.77 }, "geometry": { "type": "Point", "coordinates": [ 111.77, 2.41 ] } },
+{ "type": "Feature", "properties": { "fid": 1347, "iso_a2": "MY2", "NAME": "MALAYSIA", "Latitude": 4.22, "Longitude": 101.03 }, "geometry": { "type": "Point", "coordinates": [ 101.03, 4.22 ] } },
+{ "type": "Feature", "properties": { "fid": 4783, "iso_a2": "BN", "NAME": "BRUNEI", "Latitude": 4.27, "Longitude": 113.7 }, "geometry": { "type": "Point", "coordinates": [ 113.7, 4.27 ] } },
+{ "type": "Feature", "properties": { "fid": 6096, "iso_a2": "PH", "NAME": "PHILIPPINES", "Latitude": 6.54, "Longitude": 123.04 }, "geometry": { "type": "Point", "coordinates": [ 123.04, 6.54 ] } },
+{ "type": "Feature", "properties": { "fid": 198, "iso_a2": "PW", "NAME": "Palau", "Latitude": 7.268, "Longitude": 134.4 }, "geometry": { "type": "Point", "coordinates": [ 134.4, 7.268 ] } },
+{ "type": "Feature", "properties": { "fid": 9, "iso_a2": "KH", "NAME": "Cambodia", "Latitude": 12.716, "Longitude": 104.903 }, "geometry": { "type": "Point", "coordinates": [ 104.903, 12.716 ] } },
+{ "type": "Feature", "properties": { "fid": 316, "iso_a2": "TH", "NAME": "THAILAND", "Latitude": 15.112, "Longitude": 101.003 }, "geometry": { "type": "Point", "coordinates": [ 101.003, 15.112 ] } }
+]
+}

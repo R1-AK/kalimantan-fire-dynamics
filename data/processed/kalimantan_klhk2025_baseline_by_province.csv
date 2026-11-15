@@ -1,0 +1,111 @@
+prov_idx,province,code,pixels,area_ha,area_km2,class,colour,kelas_id
+3,West Kalimantan,2001,29455570,2275940.4974166034,22759.404974166035,Primary dryland forest,#1a6e2a,Hutan lahan kering primer
+3,West Kalimantan,2002,25595533,1977694.8508925461,19776.94850892546,Secondary dryland forest,#3f9b4b,Hutan lahan kering sekunder
+3,West Kalimantan,2006,1799167,139000.01657382993,1390.0001657382993,Plantation forest,#9acd32,Hutan tanaman
+3,West Kalimantan,2007,4988877,385458.7375064856,3854.587375064856,Shrub,#c9d98a,Semak belukar
+3,West Kalimantan,2010,33467406,2585669.9843046847,25856.69984304685,Estate crop,#f2a541,Perkebunan
+3,West Kalimantan,2012,976250,75432.26195685852,754.3226195685852,Settlement,#d7301f,Permukiman
+3,West Kalimantan,2014,2871386,221760.8918136828,2217.608918136828,Open land,#e6cfa3,Tanah terbuka
+3,West Kalimantan,5001,1629563,125911.1178512919,1259.111178512919,Water body,#2166ac,Tubuh air
+3,West Kalimantan,20041,1747754,135042.3463862157,1350.4234638621572,Secondary mangrove forest,#2c7a64,Hutan mangrove sekunder
+3,West Kalimantan,20051,14748067,1139498.8937464703,11394.988937464703,Secondary swamp forest,#84ad5c,Hutan rawa sekunder
+3,West Kalimantan,20071,7812409,603428.4279012757,6034.284279012756,Swamp shrub,#a8c49a,Semak belukar rawa
+3,West Kalimantan,20091,1584776,122448.25668036123,1224.4825668036121,Dryland farming,#ffe680,Pertanian lahan kering
+3,West Kalimantan,20092,57707468,4459060.536639569,44590.60536639569,Dryland farming mixed with shrub,#e8d27a,Pertanian lahan kering campur semak
+3,West Kalimantan,20093,1517716,117261.17616780786,1172.6117616780787,Rice field,#c7e9b4,Sawah
+3,West Kalimantan,2004,2,0.1545537481319206,0.001545537481319206,Primary mangrove forest,#0b4f3c,Hutan mangrove primer
+3,West Kalimantan,2005,36,2.7815184672433038,0.02781518467243304,Primary swamp forest,#5b8c3a,Hutan rawa primer
+3,West Kalimantan,3000,432,33.36916622287283,0.3336916622287283,Savanna / grassland,#d9c36a,Savana / padang rumput
+3,West Kalimantan,20094,168425,13008.917830229815,130.08917830229814,Fish pond,#4fc3f7,Tambak
+3,West Kalimantan,20121,8129,628.1510139636702,6.281510139636702,Airport / port,#7a0177,Bandara / pelabuhan
+3,West Kalimantan,20122,99396,7680.171345038792,76.80171345038792,Transmigration area,#f768a1,Transmigrasi
+3,West Kalimantan,20141,1189814,91926.5807105957,919.265807105957,Mining,#6a3d9a,Pertambangan
+3,West Kalimantan,50011,1694350,130884.08602756799,1308.84086027568,Swamp,#67a9cf,Rawa
+1,Central Kalimantan,2001,14107881,1090168.4110788682,10901.684110788681,Primary dryland forest,#1a6e2a,Hutan lahan kering primer
+1,Central Kalimantan,2002,54855913,4238404.052728029,42384.04052728029,Secondary dryland forest,#3f9b4b,Hutan lahan kering sekunder
+1,Central Kalimantan,2006,2810308,217067.02879321875,2170.6702879321874,Plantation forest,#9acd32,Hutan tanaman
+1,Central Kalimantan,2007,15574053,1203131.3389114663,12031.313389114664,Shrub,#c9d98a,Semak belukar
+1,Central Kalimantan,2010,26893017,2076581.1995081177,20765.811995081178,Estate crop,#f2a541,Perkebunan
+1,Central Kalimantan,2012,1067433,82420.04271047321,824.2004271047321,Settlement,#d7301f,Permukiman
+1,Central Kalimantan,2014,1916683,147977.51469509111,1479.775146950911,Open land,#e6cfa3,Tanah terbuka
+1,Central Kalimantan,5001,1541264,119012.396646518,1190.1239664651798,Water body,#2166ac,Tubuh air
+1,Central Kalimantan,20051,24195875,1868197.979190318,18681.97979190318,Secondary swamp forest,#84ad5c,Hutan rawa sekunder
+1,Central Kalimantan,20071,22821728,1761739.7071190258,17617.39707119026,Swamp shrub,#a8c49a,Semak belukar rawa
+1,Central Kalimantan,20091,4034818,311513.6141926112,3115.1361419261116,Dryland farming,#ffe680,Pertanian lahan kering
+1,Central Kalimantan,20092,17062879,1318137.483256374,13181.374832563739,Dryland farming mixed with shrub,#e8d27a,Pertanian lahan kering campur semak
+1,Central Kalimantan,20093,2489644,192138.06230297984,1921.3806230297985,Rice field,#c7e9b4,Sawah
+1,Central Kalimantan,20094,189985,14658.222296245178,146.5822229624518,Fish pond,#4fc3f7,Tambak
+1,Central Kalimantan,20141,2743398,211924.02938158435,2119.2402938158434,Mining,#6a3d9a,Pertambangan
+1,Central Kalimantan,2004,15185,1171.9613553354743,11.719613553354744,Primary mangrove forest,#0b4f3c,Hutan mangrove primer
+1,Central Kalimantan,3000,171,13.197546783268074,0.13197546783268074,Savanna / grassland,#d9c36a,Savana / padang rumput
+1,Central Kalimantan,20041,463676,35777.70620296309,357.7770620296309,Secondary mangrove forest,#2c7a64,Hutan mangrove sekunder
+1,Central Kalimantan,20122,174970,13510.319833184394,135.10319833184394,Transmigration area,#f768a1,Transmigrasi
+1,Central Kalimantan,50011,5150254,397540.3578647083,3975.4035786470827,Swamp,#67a9cf,Rawa
+1,Central Kalimantan,2005,363041,28026.945921320188,280.26945921320186,Primary swamp forest,#5b8c3a,Hutan rawa primer
+1,Central Kalimantan,20121,4762,367.7613228770207,3.6776132287702072,Airport / port,#7a0177,Bandara / pelabuhan
+2,South Kalimantan,2006,1816904,140147.09313981782,1401.4709313981784,Plantation forest,#9acd32,Hutan tanaman
+2,South Kalimantan,2007,4982730,384535.5433746175,3845.355433746175,Shrub,#c9d98a,Semak belukar
+2,South Kalimantan,2010,13242397,1021856.6453082765,10218.566453082765,Estate crop,#f2a541,Perkebunan
+2,South Kalimantan,2012,984768,75978.38316189894,759.7838316189893,Settlement,#d7301f,Permukiman
+2,South Kalimantan,5001,412903,31857.5271322043,318.575271322043,Water body,#2166ac,Tubuh air
+2,South Kalimantan,20051,191938,14816.97637109681,148.1697637109681,Secondary swamp forest,#84ad5c,Hutan rawa sekunder
+2,South Kalimantan,20071,2830138,218423.0974758629,2184.2309747586287,Swamp shrub,#a8c49a,Semak belukar rawa
+2,South Kalimantan,20091,662409,51115.0801661594,511.150801661594,Dryland farming,#ffe680,Pertanian lahan kering
+2,South Kalimantan,20092,5430901,419049.83676158806,4190.498367615881,Dryland farming mixed with shrub,#e8d27a,Pertanian lahan kering campur semak
+2,South Kalimantan,20093,4902038,378265.7372064716,3782.657372064716,Rice field,#c7e9b4,Sawah
+2,South Kalimantan,20094,375251,28948.95558082875,289.4895558082875,Fish pond,#4fc3f7,Tambak
+2,South Kalimantan,20122,72556,5599.063102973726,55.990631029737266,Transmigration area,#f768a1,Transmigrasi
+2,South Kalimantan,50011,559940,43219.63473672736,432.19634736727363,Swamp,#67a9cf,Rawa
+2,South Kalimantan,2001,1343852,103727.69627906663,1037.2769627906664,Primary dryland forest,#1a6e2a,Hutan lahan kering primer
+2,South Kalimantan,2002,7745893,597819.1118726622,5978.191118726621,Secondary dryland forest,#3f9b4b,Hutan lahan kering sekunder
+2,South Kalimantan,2004,137073,10578.531499009243,105.78531499009243,Primary mangrove forest,#0b4f3c,Hutan mangrove primer
+2,South Kalimantan,2005,34,2.622905921374345,0.02622905921374345,Primary swamp forest,#5b8c3a,Hutan rawa primer
+2,South Kalimantan,2014,280113,21607.672924159062,216.0767292415906,Open land,#e6cfa3,Tanah terbuka
+2,South Kalimantan,3000,2938,226.66473006607006,2.2666473006607006,Savanna / grassland,#d9c36a,Savana / padang rumput
+2,South Kalimantan,20041,886872,68423.88868502142,684.2388868502143,Secondary mangrove forest,#2c7a64,Hutan mangrove sekunder
+2,South Kalimantan,20141,1203852,92883.08317561253,928.8308317561252,Mining,#6a3d9a,Pertambangan
+4,East Kalimantan,2001,28189741,2177803.8724990366,21778.03872499037,Primary dryland forest,#1a6e2a,Hutan lahan kering primer
+4,East Kalimantan,2002,57294824,4426500.305970692,44265.00305970693,Secondary dryland forest,#3f9b4b,Hutan lahan kering sekunder
+4,East Kalimantan,2006,9697315,749263.2322497058,7492.632322497058,Plantation forest,#9acd32,Hutan tanaman
+4,East Kalimantan,2007,18511239,1430278.7639824443,14302.787639824443,Shrub,#c9d98a,Semak belukar
+4,East Kalimantan,2010,20686837,1598264.0420830613,15982.640420830614,Estate crop,#f2a541,Perkebunan
+4,East Kalimantan,2012,1257821,97183.81987000279,971.8381987000279,Settlement,#d7301f,Permukiman
+4,East Kalimantan,2014,1490016,115110.62625274179,1151.1062625274178,Open land,#e6cfa3,Tanah terbuka
+4,East Kalimantan,5001,1547245,119548.29739503813,1195.4829739503814,Water body,#2166ac,Tubuh air
+4,East Kalimantan,20051,1075118,83074.85392678546,830.7485392678547,Secondary swamp forest,#84ad5c,Hutan rawa sekunder
+4,East Kalimantan,20091,670478,51799.51619939084,517.9951619939084,Dryland farming,#ffe680,Pertanian lahan kering
+4,East Kalimantan,20092,6933295,535660.821466817,5356.608214668171,Dryland farming mixed with shrub,#e8d27a,Pertanian lahan kering campur semak
+4,East Kalimantan,20093,562383,43449.975022938204,434.499750229382,Rice field,#c7e9b4,Sawah
+4,East Kalimantan,20094,1355850,104746.68488638944,1047.4668488638945,Fish pond,#4fc3f7,Tambak
+4,East Kalimantan,20121,21027,1624.4418323742868,16.244418323742867,Airport / port,#7a0177,Bandara / pelabuhan
+4,East Kalimantan,20122,196253,15162.456617980471,151.6245661798047,Transmigration area,#f768a1,Transmigrasi
+4,East Kalimantan,20141,2498053,193012.3233545093,1930.1232335450932,Mining,#6a3d9a,Pertambangan
+4,East Kalimantan,50011,1816789,140392.6230817696,1403.9262308176958,Swamp,#67a9cf,Rawa
+5,North Kalimantan,2001,51165949,3949346.3986706794,39493.463986706796,Primary dryland forest,#1a6e2a,Hutan lahan kering primer
+2,South Kalimantan,20121,8871,684.3387427006983,6.843387427006983,Airport / port,#7a0177,Bandara / pelabuhan
+4,East Kalimantan,20071,4693337,362637.83673674724,3626.378367367472,Swamp shrub,#a8c49a,Semak belukar rawa
+4,East Kalimantan,2005,1459403,112775.27731859799,1127.7527731859798,Primary swamp forest,#5b8c3a,Hutan rawa primer
+5,North Kalimantan,2002,20837022,1607868.60320771,16078.6860320771,Secondary dryland forest,#3f9b4b,Hutan lahan kering sekunder
+5,North Kalimantan,2006,1267174,97732.020540555,977.32020540555,Plantation forest,#9acd32,Hutan tanaman
+5,North Kalimantan,2007,2251094,173687.26549707443,1736.8726549707444,Shrub,#c9d98a,Semak belukar
+5,North Kalimantan,2010,3901714,300904.5567502527,3009.0455675025273,Estate crop,#f2a541,Perkebunan
+5,North Kalimantan,2012,296804,22895.135772895243,228.95135772895242,Settlement,#d7301f,Permukiman
+5,North Kalimantan,2014,562747,43410.341836857864,434.1034183685786,Open land,#e6cfa3,Tanah terbuka
+5,North Kalimantan,5001,979892,75592.2603202214,755.922603202214,Water body,#2166ac,Tubuh air
+5,North Kalimantan,20051,2415740,186285.25107783312,1862.8525107783312,Secondary swamp forest,#84ad5c,Hutan rawa sekunder
+5,North Kalimantan,20071,997503,76938.69315298452,769.3869315298451,Swamp shrub,#a8c49a,Semak belukar rawa
+5,North Kalimantan,20091,335785,25907.415369617713,259.0741536961771,Dryland farming,#ffe680,Pertanian lahan kering
+5,North Kalimantan,20092,1995119,153934.77230651997,1539.3477230651997,Dryland farming mixed with shrub,#e8d27a,Pertanian lahan kering campur semak
+5,North Kalimantan,20093,90670,6992.577252891524,69.92577252891525,Rice field,#c7e9b4,Sawah
+5,North Kalimantan,20094,1975656,152412.20367830695,1524.1220367830695,Fish pond,#4fc3f7,Tambak
+5,North Kalimantan,20121,4557,351.56157381556716,3.515615738155672,Airport / port,#7a0177,Bandara / pelabuhan
+5,North Kalimantan,20122,63034,4864.238322298999,48.64238322298999,Transmigration area,#f768a1,Transmigrasi
+5,North Kalimantan,50011,6503,501.8165356789591,5.0181653567895905,Swamp,#67a9cf,Rawa
+4,East Kalimantan,2004,407987,31517.539193053497,315.17539193053494,Primary mangrove forest,#0b4f3c,Hutan mangrove primer
+4,East Kalimantan,3000,4019,310.4979191620323,3.104979191620323,Savanna / grassland,#d9c36a,Savana / padang rumput
+4,East Kalimantan,20041,2432187,187889.7443752763,1878.8974437527631,Secondary mangrove forest,#2c7a64,Hutan mangrove sekunder
+5,North Kalimantan,20141,137227,10585.110934662433,105.85110934662433,Mining,#6a3d9a,Pertambangan
+5,North Kalimantan,20041,1684988,129955.39864378973,1299.5539864378973,Secondary mangrove forest,#2c7a64,Hutan mangrove sekunder
+5,North Kalimantan,2004,339104,26141.092393609037,261.41092393609034,Primary mangrove forest,#0b4f3c,Hutan mangrove primer
+5,North Kalimantan,2005,184621,14239.598822609238,142.39598822609236,Primary swamp forest,#5b8c3a,Hutan rawa primer
+5,North Kalimantan,3000,1069,82.42981049747759,0.824298104974776,Savanna / grassland,#d9c36a,Savana / padang rumput
